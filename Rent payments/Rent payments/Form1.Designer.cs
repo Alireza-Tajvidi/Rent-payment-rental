@@ -430,11 +430,11 @@
             // 
             this.lbAccount.AutoSize = true;
             this.lbAccount.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbAccount.Location = new System.Drawing.Point(529, 74);
+            this.lbAccount.Location = new System.Drawing.Point(531, 74);
             this.lbAccount.Name = "lbAccount";
-            this.lbAccount.Size = new System.Drawing.Size(43, 21);
+            this.lbAccount.Size = new System.Drawing.Size(57, 21);
             this.lbAccount.TabIndex = 67;
-            this.lbAccount.Text = "Kart:";
+            this.lbAccount.Text = "Hesap:";
             this.lbAccount.UseMnemonic = false;
             // 
             // panAccount
@@ -449,11 +449,11 @@
             // 
             this.txtAccount.BackColor = System.Drawing.Color.Gainsboro;
             this.txtAccount.Font = new System.Drawing.Font("Javanese Text", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtAccount.Location = new System.Drawing.Point(578, 70);
+            this.txtAccount.Location = new System.Drawing.Point(594, 71);
             this.txtAccount.Multiline = true;
             this.txtAccount.Name = "txtAccount";
             this.txtAccount.ReadOnly = true;
-            this.txtAccount.Size = new System.Drawing.Size(171, 25);
+            this.txtAccount.Size = new System.Drawing.Size(157, 25);
             this.txtAccount.TabIndex = 69;
             // 
             // btnCollect
