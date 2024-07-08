@@ -64,9 +64,9 @@
             this.lbDuedate = new System.Windows.Forms.Label();
             this.panDuedate = new System.Windows.Forms.Panel();
             this.txtDuedate = new System.Windows.Forms.TextBox();
-            this.lbCard = new System.Windows.Forms.Label();
-            this.panCard = new System.Windows.Forms.Panel();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.lbAccount = new System.Windows.Forms.Label();
+            this.panAccount = new System.Windows.Forms.Panel();
+            this.txtAccount = new System.Windows.Forms.TextBox();
             this.btnCollect = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel4.SuspendLayout();
@@ -426,35 +426,35 @@
             this.txtDuedate.Size = new System.Drawing.Size(185, 25);
             this.txtDuedate.TabIndex = 69;
             // 
-            // lbCard
+            // lbAccount
             // 
-            this.lbCard.AutoSize = true;
-            this.lbCard.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbCard.Location = new System.Drawing.Point(529, 74);
-            this.lbCard.Name = "lbCard";
-            this.lbCard.Size = new System.Drawing.Size(43, 21);
-            this.lbCard.TabIndex = 67;
-            this.lbCard.Text = "Kart:";
-            this.lbCard.UseMnemonic = false;
+            this.lbAccount.AutoSize = true;
+            this.lbAccount.Font = new System.Drawing.Font("Franklin Gothic Medium", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbAccount.Location = new System.Drawing.Point(529, 74);
+            this.lbAccount.Name = "lbAccount";
+            this.lbAccount.Size = new System.Drawing.Size(43, 21);
+            this.lbAccount.TabIndex = 67;
+            this.lbAccount.Text = "Kart:";
+            this.lbAccount.UseMnemonic = false;
             // 
-            // panCard
+            // panAccount
             // 
-            this.panCard.BackColor = System.Drawing.Color.SlateGray;
-            this.panCard.Location = new System.Drawing.Point(519, 100);
-            this.panCard.Name = "panCard";
-            this.panCard.Size = new System.Drawing.Size(230, 3);
-            this.panCard.TabIndex = 68;
+            this.panAccount.BackColor = System.Drawing.Color.SlateGray;
+            this.panAccount.Location = new System.Drawing.Point(533, 100);
+            this.panAccount.Name = "panAccount";
+            this.panAccount.Size = new System.Drawing.Size(218, 3);
+            this.panAccount.TabIndex = 68;
             // 
-            // textBox1
+            // txtAccount
             // 
-            this.textBox1.BackColor = System.Drawing.Color.Gainsboro;
-            this.textBox1.Font = new System.Drawing.Font("Javanese Text", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(578, 70);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(171, 25);
-            this.textBox1.TabIndex = 69;
+            this.txtAccount.BackColor = System.Drawing.Color.Gainsboro;
+            this.txtAccount.Font = new System.Drawing.Font("Javanese Text", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtAccount.Location = new System.Drawing.Point(578, 70);
+            this.txtAccount.Multiline = true;
+            this.txtAccount.Name = "txtAccount";
+            this.txtAccount.ReadOnly = true;
+            this.txtAccount.Size = new System.Drawing.Size(171, 25);
+            this.txtAccount.TabIndex = 69;
             // 
             // btnCollect
             // 
@@ -475,13 +475,13 @@
             this.Controls.Add(this.btnCollect);
             this.Controls.Add(this.txtContractid);
             this.Controls.Add(this.panDuedate);
-            this.Controls.Add(this.panCard);
+            this.Controls.Add(this.panAccount);
             this.Controls.Add(this.panContractid);
             this.Controls.Add(this.txtDuedate);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtAccount);
             this.Controls.Add(this.txtTenant_rent);
             this.Controls.Add(this.lbDuedate);
-            this.Controls.Add(this.lbCard);
+            this.Controls.Add(this.lbAccount);
             this.Controls.Add(this.lbContractid);
             this.Controls.Add(this.panTenant_rent);
             this.Controls.Add(this.lbTenant_rent);
@@ -544,9 +544,9 @@
         private System.Windows.Forms.Label lbDuedate;
         private System.Windows.Forms.Panel panDuedate;
         private System.Windows.Forms.TextBox txtDuedate;
-        private System.Windows.Forms.Label lbCard;
-        private System.Windows.Forms.Panel panCard;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label lbAccount;
+        private System.Windows.Forms.Panel panAccount;
+        private System.Windows.Forms.TextBox txtAccount;
         private System.Windows.Forms.Button btnCollect;
     }
 }
