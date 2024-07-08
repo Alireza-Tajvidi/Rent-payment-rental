@@ -1,0 +1,10 @@
+C:\Users\parsa\Desktop\Morya\Rent payments\Rent payments\Rent payments\bin\Debug\Rent payments.exe.config
+C:\Users\parsa\Desktop\Morya\Rent payments\Rent payments\Rent payments\bin\Debug\Rent payments.exe
+C:\Users\parsa\Desktop\Morya\Rent payments\Rent payments\Rent payments\bin\Debug\Rent payments.pdb
+C:\Users\parsa\Desktop\Morya\Rent payments\Rent payments\Rent payments\obj\Debug\Rent payments.csproj.AssemblyReference.cache
+C:\Users\parsa\Desktop\Morya\Rent payments\Rent payments\Rent payments\obj\Debug\Rent_payments.Form1.resources
+C:\Users\parsa\Desktop\Morya\Rent payments\Rent payments\Rent payments\obj\Debug\Rent_payments.Properties.Resources.resources
+C:\Users\parsa\Desktop\Morya\Rent payments\Rent payments\Rent payments\obj\Debug\Rent payments.csproj.GenerateResource.cache
+C:\Users\parsa\Desktop\Morya\Rent payments\Rent payments\Rent payments\obj\Debug\Rent payments.csproj.CoreCompileInputs.cache
+C:\Users\parsa\Desktop\Morya\Rent payments\Rent payments\Rent payments\obj\Debug\Rent payments.exe
+C:\Users\parsa\Desktop\Morya\Rent payments\Rent payments\Rent payments\obj\Debug\Rent payments.pdb
